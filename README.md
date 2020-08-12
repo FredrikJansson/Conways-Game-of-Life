@@ -22,7 +22,7 @@ git clone https://github.com/FredrikJansson/Conways-Game-of-Life.git
 or download the repository as a zip and extract. 
 
 ### Step 2. Run main.py using Python
-Considering this is a Python file, the script is ran using two different ways.
+Considering this is a Python file it will be ran using the prefix python/python3, however the script can be ran using two different methods.
 
 #### Step 2.1. Ran with arguments
 The script can be ran using arguments, this is done using the following format.
